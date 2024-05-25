@@ -1,0 +1,16 @@
+Day,Temperature (C),Wind (m/s),Humidity (%),Precipitation (%),Lightning,Clouds
+1,28,15,20,0,No,Cumulus
+2,28,13,30,0,No,Cumulus
+3,29,12,30,0,No,Stratus
+4,30,14,35,0,No,Stratus
+5,31,11,60,20,No,Stratus
+6,32,10,70,40,Yes,Nimbus
+7,31,6,80,30,Yes,Nimbus
+8,30,5,60,20,No,Stratus
+9,28,4,30,0,No,Cumulus
+10,28,3,20,0,No,Cirrus
+11,27,2,25,0,No,Cumulus
+12,29,3,20,5,No,Stratus
+13,31,2,15,5,No,Cirrus
+14,32,2,15,0,No,Cirrus
+15,32,2,20,0,No,Cirrus
